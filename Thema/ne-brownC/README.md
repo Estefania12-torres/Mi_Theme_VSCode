@@ -1,4 +1,4 @@
-# ne-brownC
+# NE-BrownC
 
 > Tema cafe oscuro personalizado para Visual Studio Code.
 
