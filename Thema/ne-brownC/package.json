@@ -1,0 +1,29 @@
+{
+  "name": "ne-brownC",
+  "displayName": "ne-brownC",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "New-Brown-Carol",
+        "uiTheme": "vs-dark",
+        "path": "./themes/New-Brown-Carol-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon/ico.png",
+  "author": {
+    "name": "Estefania Torres"
+  },
+  "repository": {
+    "url": "https://github.com/Estefania12-torres/Mi_Theme_VSCode.git",
+    "type": "git"
+  }
+}
